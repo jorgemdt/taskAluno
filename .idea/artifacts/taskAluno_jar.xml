@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="taskAluno:jar">
+    <output-path>$PROJECT_DIR$/artifacts/taskAluno_jar</output-path>
+    <root id="archive" name="taskAluno.jar">
+      <element id="module-output" name="taskAluno" />
+    </root>
+  </artifact>
+</component>
